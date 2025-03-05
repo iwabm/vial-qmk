@@ -1,8 +1,11 @@
 {
-    "keyboard_name": "BM60HSRGB_EC Rev2",
+    "name": "BM60HSRGB_EC Rev2",
     "manufacturer": "KP Republic",
     "url": "",
+"matrix": "",
     "maintainer": "peepeetee",
+    "vendorId": "1212",
+    "productId": "1212",
     "usb": {
         "vid": "0x4B50",
         "pid": "0x1124",
