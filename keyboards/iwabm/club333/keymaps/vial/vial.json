@@ -2,7 +2,7 @@
     "lighting": "none",
     "matrix": { "rows": 3, "cols": 12 },
     "layouts": { 
-      "labels": [ "LShift", "Spacebar"], 
+      "labels": [ "Short Shift", "Split Space"], 
       "keymap": [
           [
             {
